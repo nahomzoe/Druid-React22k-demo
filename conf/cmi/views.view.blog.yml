@@ -1,6 +1,6 @@
 uuid: 5161699f-5957-46ea-bc1f-31b8fe9cdbf4
 langcode: fi
-status: true
+status: false
 dependencies:
   config:
     - core.entity_view_mode.node.content_promotion
